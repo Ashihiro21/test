@@ -2,14 +2,8 @@ body{
     background: url('/Assets/bg3.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    
-}
-body{
     font-family: Trebuchet MS;
-
 }
-
-
 
 .company-name {
     color: white;
